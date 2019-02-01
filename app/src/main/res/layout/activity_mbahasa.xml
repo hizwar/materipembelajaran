@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		xmlns:app="http://schemas.android.com/apk/res-auto"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="#cccfed"
+		tools:context=".Mbahasa">
+	
+	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+		<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+	<TextView
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:text="Daftar Materi Bahasa SMA Kelas 10"
+			android:gravity="center"
+			android:textSize="18dp"
+			android:textStyle="bold"
+			android:layout_marginTop="20dp"/>
+	
+	<TextView
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="25dp"
+			android:layout_marginRight="25dp"
+			android:layout_marginTop="10dp"
+			android:textColor="#000000"
+			android:text="1. Wawancara dengan narasumber
+Wawancara adalah suatu cara untuk mengumpulkan data atau memperoleh informasi dengan mengajukan pertanyaan langsung kepada narasumber atau otoritas.
+
+Adapun tujuan wawancara adalah sebagai berikut:
+
+bahan informasi,misalnya berkaitan dengan masalah sosial,politik,ekonomi,dll
+bahan opini,misalnya pendapat dan tamggapan narasumber terhadap suatu masalah.
+bahan ceriat,misalnya untuk mendukung penulisan karya sastra.
+bahan biografi,misalnya riwayat hidup tokoh yang akan ditulis.
+Wawancara berdasarkan pelaksanaannya dapat dibedakan menjadi sebagai berikut:
+
+wawancara terstruktur,yaitu wawancara yang dilaksanakan secara terencana dengan berpedoman pada daftar pertanyaan yang telah disiapkan.
+wawancara tidak terstruktur,yaitu wawancara yang tidak berpedoman pada daftar pertanyaan.
+Wawancara memiliki 7 jenis,yaitu:
+
+wawancara bebas,yaitu wawancara yang susunan pertanyaannya tidak ditentukan lebih dulu dan pembicaraannya tergantung kapada suasana pembicara.
+wawancara terpimpin,yaitu wawancara dengan memakai daftar pertanyaan yang sudah disiapkan terlebih sebelumnya.
+wawancara individual,yaitu wawncara yang dilakukan seseorang dengan responden tunggal.
+wawancara kelompok,yaitu wawancara yang dilakukan terhadap sekelompok orang dalam waktu bersamaan.
+wawancara konferensi,yaitu wawancara antara seorang pewawancara dengan sejumlah responden atau sejumlah pewawancara dengan seorang responden.
+wawancara terbuka,yaitu wawancara yang berdasarkan pertanyaan yang tidak terbatas jawabannya.
+wawancara tertutup,yaitu wawancara berdasarkan pertanyaan yang terbatas jawabannya.
+Tahap-tahap wawancara,yaitu:
+
+menentukan topik wawancara
+menentukan narasumber yand disesuaikan dengan topik wawancara.
+mengetahui identitas narasumber secara umum
+menghubungi atau mengkonfirmasi narasumber yang akan diwawancarai
+membuat garis besar atau daftar pertanyaan
+mempelajari masalah yang berkaitan dengan topik wawancara
+mempersiapkan alat Bantu untuk mencatat hasil wawancara
+ketika wawancara dengan narasumber,ada beberapa hal yang perlu diperhatikan (etika/sopan santun), yaitu sebagai berikut:
+
+datang tepat waktu sesuai dengan perjanjian
+bersikap sopan santun,wajar dan ramah
+dahulukan pertanyaan yang ringan dan sederhana
+bertanya dengan kalimat yang jelas dan singkat sesuai dengan topik wawancara
+hindari pertanyaan yang bersifat pribadi
+mencatat hal-hal yang penting hasil wawancara dan menyimpulkannya sendiri
+jangan menyela apabila narasumber sedang berbicara
+selesai wawncara ucapkan terima kasih
+Merangkum Hasil Wawancara
+Menyimak informasi dari kegiatan wawancara merupakan kegiatan yang bermanfaat karena dapat menambah wawasan terhadap topik yang diangkat.
+
+Rangkuman atau ringkasan adalah penyajian singkat dari sebuah tulisan asli atau hasil pembicaraan dengan tetap mempertahankan urutan-urutan isi atau pernyataan-pernyataan sesuai dengan karangan atau pembicaraan aslinya,serta tetap sesuai denagn sudut pandng penulis karangan atau pembicara.
+
+Menulis Surat Kuasa
+Surat kuasa adalah surat yang berisi pengalihan atau pelimpahan wewenang kepada seseorang untuk bertindak atau berhak bertindak atas nama pemberi kuasa tersebut.
+
+Beberapa hal yang harus diperhatikan dalam membuat surat kuasa,yaitu sebagai berikut:
+
+ditulis diatas kertas segel atau kertas surat bermeterai, kecuali untuk surat kuasa yang sifatnya tidak begitu penting.
+pemberi kuasa maupun penerima kuasa harus sudah dewasa dan berada dalam kondisi jiwa dan tubuh yang sehat,serta tidak berada padasatu tekanan/paksaan.
+isi surat kuasa harus menjelaskan secara tegas perihal kedua belah pihak,baik yang memberi kuasa maupunyang meneima kuasa,seperti nama,alamat,usia,pekerjaan dan tanda tangan.
+hal yang dikuasakan, masa berlakunya surat kuasa, serta tanggal pembuatan surat kuasa harus tertera dengan jelas.
+kedua belah pihak harus menandatangani surat kuasa yang dibuat.
+Menganalisis Novel Indonesia
+Novel merupakan jenis karya sastra prosa yang menceritakan sesuatu yang luar biasa dari kehidupan orang-orang atau tokohnya.Sebuah karya sastra termasuk novel dibangun oleh unsure-unsur pembangun, yaitu unsure intrinsik dan ekstrinsik.
+
+Unsur intrinsik dalam karya sastra meliputi sebagai berikut:
+
+Tema,adalah gagasan pokok (ide) yang mendasari penulisan sebuah karya sastra.
+Amanat (pesan pengarang), adalah pesan yang disampaikan pengarang kepada pembaca karya sastra melalui karyanya.
+Alur atau plot, adalah rangkaian peristiwa yang saling berhubungan satu dengan yang lain dan membentuk cerita.
+Tokoh, adalah orang rekaan yang ada dalam imajinasi pengarang yang dituangkan kedalam cerita.
+Penokohan, adalah pelukisan gambaran yang jelas tentang watak dan bentuk fisik tokoh yang ditampilkan dalam sebuah cerita.
+Latar atau setting, adalah latar belakang peristiwa/kejadian yang terjadi dalam cerita/karya sastra. Latar dibedakan menjadi latar waktu,latar tempat dan latar sosial.
+Sudut pandang, adalah cara pengarang mengungkapkan ceritanya. Sudut pandng tebagi atas:
+Sudut pandang orang pertama pelaku utama. Pengarang menggunakan kata ganti orang pertama aku dan saya.
+Sudut pandang orang ketiga. Pengarang menggunakan kata ganti orang ketiga dia, ia atau nama orang.
+Sudut pandang campuran ku dan dia.
+Konflik, adalah pertentangan atau ketegangan yang terdapat dalam sebuah cerita karya satra. Konflik dibedakan menjadi:
+Konflik eksternal adalah konflik yang terjadi antara tokoh dan sesuatu diluar dirinya.
+Konflik internal adalah konflik antara tokoh dengan dirinya sendiri.
+Unsur-unsur iekstrinsik, antara lain ssebagai berikut:
+
+Sikap, keyakinan, dan pandangan hidup pengarang.
+Latar belakang pengarang.
+Psikologi pengarang.
+Kebahasaan
+Kata akibatnya dan dengan demikian disebut kata penghubung karena berfungsi menghubungkan kalimat dengan kalimat, sehingga kata tersebut akan memperjelas hubungan makna kalimat yang digabungkan.Jadi, kalimat yang diikuti dengan kata penghubung akibatnya dan dengan demikian menyatakan makan akibat dari apa yang diungkapkan dalam kalimat utama.
+
+Selain kata penghubung akibatnya dan dengan demikian kata penghubung akibat yang lain adalah sehingga, sampai-sampai, maka, oleh karena itu, dan oleh sebab itu. BAB 2
+A. Mendengarkan Sambutan
+
+Sambutan adalah bentuk penyajian lisan yang berupa ucapan penerimaan atau pemberian kesan-kesan atas suatu masalah atau hal dalam suatu pertemuan.
+
+Unsur-unsur dalam sambutan antara lain sebagai berikut:
+
+Pembukaan, berisi sapaan kepada pendengar, salam pembuka, dan ungkapan syukur kepada Tuhan.
+Isi sambutan memuat/berisi inti atau pokok permasalahan.
+Penutup berisi kesimpulan, harapan, amanat/pesan dan salam penutup.
+B. Menjelaskan Uraian Topik
+
+Membaca merupakan aktivitas yang sangat bermanfaat untuk menambah wawasan dan pengetahuan,dapat memperluas cakrawala dan cara pandang serta pola pikir dalam menghadapi masalah.
+
+Salah satu tujuan membaca adalah memperoleh informasi.Ada beberapa langkah yang perlu diperhatikan jika ingin mengungkapkan kembali isi bacaan secara benar. Langkah-langkah tersebut adalah:
+
+Membaca teks bacaan di dalam hati dengan seksama. Dapat menggunakan teknik membaca cepat atau scanning.
+Menentukan pokok-pokok bacaan dengan cara mencari gagasan utama setiap paragraph.
+Mneysun pokok-pokok bacaan yang telah ditentukan tersebut menjadi satu ringkasan bacaan yang padu.
+C. Menyusun Kerangka Makalah
+
+Karya tulis ilmiah adalah karangan ilmu pengetahuan yang menyajikan fakta umum dan ditulis menurut metologi penulisan yang baik dan benar.Karangan ilmiah ditulis berdasarkan fakta umum dan dapat dibuktikan benar tidaknya.
+
+Materi yang dirancang harus diseleksi dengan patokan sebagai berikut:
+
+Bahan atau materi disesuaikan dengan tema supaya karangan dapat disusun teratur.
+Bahan tersebut dapat dijabarkan dan didukung tema.
+Bahan disesuaikan dengan kebutuhan.
+Bahan mudah diurai atau dianalisis sehingga membantu penulis untuk berfikir sistematis/rinci.
+Ciri-ciri karya tulis ilmiah adalah sebagai berikut:
+
+Logis, yaitu semua penjelasan disajikan secara masuk akal.
+Objektif, yaitu semua keterangan atau penjelasan disajikan secara jujur, apa adanya sesuai data dan fakta.
+Sistematis, yaitu disusun dengan kerangka yang urut dan berkesinambungan.
+Tuntas, yaitu maslah dikupas dengan rinci dan lengkap.
+Kebenarannya dapat diuji.
+Berlaku umum, yaitu kesimpulan cocok untuk semua populasi.
+Memakai bahasa baku dan tata tulis yang sesuai kaidah bahasa.
+Tahap-tahap dalam merencanakan karay tulis ilmiah meliputi sebagai berikut:
+
+Memilih topik, topik yang dipilih hendaknya yang bermanfaat, menarik dan dikuasai oleh penulis.
+Membatasi topik dan menetapkan judul
+Merumuskan masalh.
+Mengumpulkan data.
+Menyusun kerangka makalah.
+D. Membaca Hikayat
+
+Sastrab melayu klasik adalah kesusastraan Indonesia yang lahir sebelum tahun 1920 yang disebarkan secara lisan.Secara umum cirri-cirinya adalah sebagai berikut:
+
+pada awalnya dikisahkan secara lisan.
+bersifat istana sentris, yaitu mengisahkan kehidupan sekitar istana.
+anonim, tidak diketahui siapa pengarangnya.
+statis dalam bentuk dan isi karena terikat pada aturan tertentu serta tidak menerima pengaruh dari luar.
+menggunakan baha melayu.
+biasanya bersifat nasehat.
+Kebahasaan
+Kalimat ambigu adalah kalimat yang mempunyai arti lebih dari satu atau bermakna ganda.Kalimat ambigu secara structural/ketatabahasaan sudah tepat, tetapi arti arti kalimat tersebut bermakna ganda."/>
+		</LinearLayout>
+	</ScrollView>
+	</LinearLayout>
+	
+</LinearLayout>

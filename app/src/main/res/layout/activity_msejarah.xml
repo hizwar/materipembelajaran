@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Msejarah">
+	
+	
+	
+	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+		
+		<ScrollView
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+			<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical">
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:text="Daftar Materi Sejarah SMA Kelas 10"
+						android:gravity="center"
+						android:textSize="18dp"
+						android:textStyle="bold"
+						android:layout_marginTop="20dp"/>
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:layout_marginLeft="25dp"
+						android:layout_marginRight="25dp"
+						android:layout_marginTop="10dp"
+						android:textColor="#000000"
+						android:text="PENGERTIAN DAN RUANG LINGKUP ILMU SEJARAH
+1. PENGERTIAN SEJARAH
+
+Istilah Sejarah berasal dari bahasa Arab yaitu Syajaratun yang berarti Pohon.Penggunaan kata tersebut dalam konteks masa lalu mengacu pada pohon silsilah.Dalam hal ini arti sejarah itu hanya mengacu pada masalah asal usul atau keturunan seseorang.Kata Sejarah yang lebih dekat dengan pengertian, terkandung dalam bahasa Yunani yaitu Historia yang berarti Ilmu atau Orang pandai.Sedangkan dalam bahasa Inggris, History yaitu masa lampau umat manusia dan dalam bahasa Jerman, Geschichte yaitu sesuatu yang telah terjadi.
+
+Beberapa definisi sejarah menurut para ahli :
+
+JV. Briche, sejarah adalah : “ It is the record of what man has thought,said and done “.
+Patrick Gardiner, mengatakan : “ History is the study of what human beings have done“.
+Moh. Yamin, mengatakan bahwa : sejarah adalah suatu ilmu pengetahuan yang disusun atas hasil penyelidikan beberapa peristiwayang dapat dibuktikan dengan kenyataan.
+Koentowidjojo : Sejarah adalah rekonstruksi masa lalu tentang apa yang dipikirkan, dikatakan, dikerjakan, dirasakan dan dialami manusia
+Sartono Kartidirdjo : Sejarah adalah berbagai bentuk penggambaran tentang pengalaman kolektif di masa lampau
+Sejarah adalah berbagai b
+Mohammad Ali : Sejarah adalah berbagai bentuk penggambaran tentang pengalaman kolektif di masa lampau
+Kesimpulan : Sejarah merupakan rangkaian peristiwa masa lampau yang menyangkut kehidupan manusia setelah mengenal tulisan, sedangkan Ilmu Sejarah adalah ilmu yang mempelajari tentang seluk beluk manusia pada masa lampau setelah mengenal tulisan.
+
+2. SEJARAH SEBAGAI PERISTIWA, KISAH, ILMU DAN SENI
+
+Sejarah sebagai peristiwa berarti bahwa kejadian itu pernah ada dan benar-benar terjadi serta bisa dibuktikan secara ilmiah.Sedangkan sejarah sebagai Kisah, selain peristiwa itu ada, juga bisa dikisahkan atau bisa diceritakan kembali.Sejarah sebagai ilmu bahwa sejarah menggunakan metode analitis yaitu hasilnya harus dapat diverifikasi dan dapat disetujui atau ditolak oleh para ahli.Sementara sejarah sebagai seni mengandung arti bahwa dalam penyajian dari hasil penyelidikan itu disusun dalam suatu rangka tertentu sehingga dapat menarik perhatian orang dan dapat mempengaruhi sikap jiwanya.
+
+3. PERIODISASI DAN KRONOLOGI
+
+Periodisasi adalah penentuan pemenggalan kurun waktu yang akan diteliti dan didasarkan pada alasan-alasan tertentu yang rasionall dan ilmiah yang erat kaitannya dengan permasalahan yang hendak diteliti. Periodisasi Sejarah Indonesia yang lazim dipakai adalah : 1. Jaman Prasejarah, membicarakan kehidupan manusia purba sebelum adanya tulisan. 2. Jaman Kuno, membicarakan masa perkembangan agama dan kebudayaan Hindu-Budha. 3. Jaman modern, yang berlangsung sejak masa perkembangan islam di Indonesia hingga kini. Kronologi merupakan urutan waktu yang tersusun sesuai dengan kejadian yang sebenarnya.
+
+4. KEGUNAAN SEJARAH
+
+Secara sederhana, Louis Gotschalk membagi kegunaan sejarah dalam 4 bagian yaitu :
+
+Rekreatif, artinya dengan membaca atau mempelajari sejarah, kita seolah-olah dibawa berpetualang menembus dimensi ruang dan waktu. Tanpa beranjak dari tempat, kita dibawa oleh sejarah untuk menyaksikan peristiwa-peristiwa yang jauh dari kita yang mungkin saja kita tidak tahu tempatnya atau kita tidak pernah ikut menyaksikan kejadian tersebut.
+Inspiratif, dalam hal ini suatu karya sejarah dapat memberikan inspirasi kepada para pembacanya atau yang mempelajarinya.
+Instruktif, bermaksud memberikan pelajaran mengenai suatu keterampilan atau pengetahuan ( pengajaran ) tertentu misalnya pengetahuan tentang taktik perang.
+Edukatif, berguna untuk mendapatkan kearifan dari masa lampau untuk melangkah ke masa depan. Contoh adanya slogan “jangan sekali-kali melupakan sejarah”. Menurut Travelyan belajar sejarah mempunyai 3 kegunaan antara lain : a. Ilmiah yaitu berupa pengumpulan fakta dan penyaringan bukti. b. Imajinatif yaitu menyeleksi dan mengkategorikan fakta yang telah dikumpulkan dan mengambil satu kesimpulan c. Sastra yaitu penyajian hasil ilmu dan daya angan dalam bentuk yang menarik.  DASAR-DASAR  PENELITIAN  SEJARAH
+
+1. LANGKAH-LANGKAH DALAM PENELITIAN SEJARAH
+
+Heuristik Merupakan kegiatan yang berkaitan dengan upaya mencari dan menemukan data-data mentah yang sesuai dengan tujuan dari penelitian.
+Verifikasi Dalam hal ini, peneliti melakukan penyeleksian data yang ditemukannya melalui proses pengujian terhadap data-data tersebut, baik dari segi materi maupun isinya. Setelah data tersebut telah teruji kebenarannya maka akan dinilai apakah data-data tersebut relevan/sesuai dengan permasalahan yang hendak ditulis. Data yang telah teruji kebenarannya akan menjadi fakta sejarah.
+Interpretasi Adalah proses penafsiran dan merangkaikan unsur-unsur yang telah diperoleh dari tahap-tahap sebelumnya dengan tujuan untuk memperoleh kumpulan fakta yang memiliki arti dan menjadi dasar argumentasi/pendapat dari penulis sejarah.
+Historiografi Yaitu proses penulisan sejarah yang bertolak dari fakta-fakta yang telah teruji kebenarannya.
+2. SUMBER, BUKTI DAN FAKTA SEJARAH
+
+SUMBER SEJARAH
+Louis Gotschalk membagi sumber sejarah menjadi dua bagian yaitu sumber Primer merupakan kesaksian dari seorang saksi dengan mata dan kepalanya sendiri.Dan Sumber Sekunder merupakan kesaksian dari siapapun yang bukan saksi pandangan mata atau yang tidak melihat secara langsung kejadian tersebut.
+
+Sementara itu Nugroho Notosusanto membagi sumber sejarah dalam 3 kategori yaitu : a. Sumber Tertulis merupakan sumber yang diperoleh dari peninggalan tertulis seperti : Prasasti, Babad, Kronik, Dokumen, Arsip, Naskah dan Rekaman b. Sumber lisan merupakan keterangan langsung dari pelaku atau saksi dari suatu peristiwa yang terjadi pada masa lampau. c. Sumber benda merupakan sumber yang diperoleh dari peninggalan purbakala seperti : candi, alat-alat, senjata, keraton, gua-gua dsb.
+
+2. BUKTI SEJARAH
+
+Merupakan segala peninggalan yang berkaitan dengan aktivitas manusia di masa lampau yang mungkin saja peninggalan itu masih dipergunakan oleh manusia pada masa kini.Contoh, istana kepresidenan dan teks proklamasi.
+
+3. FAKTA SEJARAH
+
+Merupakan data sejarah yang sudah diverifikasi dan diinterpretasikan oleh sejarawan kemudian dijadikan dalil, argumentasi atau dasar pemikiran untuk menulis sejarah.
+
+3. PRINSIP-PRINSIP DALAM PENELITIAN SEJARAH LISAN
+
+SUMBER BERITA DARI PELAKU SEJARAH
+Pelaku sejarah merupakan tokoh yang secara langsung mengalami suatu peristiwa yang terjadi namun perlu diingat bahwa keterangan para pelaku kadang bersifat subyektif karena keterangan tersebut benar menurut pelaku sendiri.
+
+SUMBER BERITA DARI SAKSI SEJARAH
+Saksi sejarah merupakan orang yang pernah melihat atau menyaksikan terjadinya suatu peristiwa dan bukan pelaku sejarah.
+
+TEMPAT PERISTIWA SEJARAH
+Untuk menentukan tempat atau lokasi peristiwa yang terjadi pada masa lampau diperlukan penafsiran-penafsiran yang matang, misalnya menentukan pusat pemerintahan Kerajaan Bima.
+
+LATAR BELAKANG MUNCULNYA PERISTIWA SEJARAH
+Latar belakang terjadinya suatu peristiwa menjadi penentu utama munculnya suatu peristiwa sejarah.Tanpa adanya latar belakang tidak mungkin terjadi peristiwa sejarah.Misalnya, terbunuhnya pangeran Frans Ferdinand menjadi latar belakang terjadinya Perang Dunia I.
+
+PENGARUH DAN AKIBAT DARI PERISTIWA SEJARAH
+Suatu peristiwa sejarah akan memberikan pengaruh dan akibat yang sangat besar dalam kehidupan masyarakat jika peristiwa itu memang dicita-citakan oleh masyarakat yang bersangkutan, misalnya Proklamasi kemerdekaan Indonesia dan peristiwa jatuh bangunnnya kabinet di Indonesia."/>
+				
+			</LinearLayout>
+		</ScrollView>
+	</LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

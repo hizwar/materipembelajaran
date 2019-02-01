@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#cccfed"
+        tools:context=".Mfisika">
+    
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        
+        <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+                    <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Daftar Materi Fisika SMA Kelas 10"
+                            android:gravity="center"
+                            android:textSize="18dp"
+                            android:textStyle="bold"
+                            android:layout_marginTop="20dp"/>
+                    <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="25dp"
+                            android:layout_marginRight="25dp"
+                            android:layout_marginTop="10dp"
+                           android:textColor="#000000"
+                            android:text="1.Besaran Dan Satuan
+         Dalam ilmu fisika dikenal istilah “Besaran” dan “Satuan“, kedua istilah dalam bidang fisika tersebut dapat diartikan sebagai berikut. Besaran adalah segala sesuatu yang dapat diukur, mempunyai nilai yang dapat dinyatakan dengan angka dan memiliki satuan tertentu. Satuan adalah pernyataan yang menjelaskan arti dari suatu besaran. Pada bab ini akan dijelaskan besaran pokok dan besaran turunan, sedangkan besaran skalar dan besaran vektor akan dijelaskan pada bagian selanjutnya.Besaran Pokok, Besaran Turunan Dan Satuannya
+Besaran pokok merupakan besaran yang dipandang berdiri sendiri dan tidak diturunkan dari besaran lain. Sampai saat ini ditetapkan 7 besaran pokok sebagai berikut :
+
+Tabel Besaran Pokok Dan SatuannyaBesaran Pokok
+
+Satuan
+
+Panjang
+Massa
+Waktu
+Suhu
+Kuat Arus Listrik
+Kuat Cahaya
+Jumlah Zat	kilometer, meter, sentimeter
+kilogram , gram , ton
+tahun, hari, sekon , menit
+fahrenheit , kelvin , celcius
+ampere
+kandela
+mol
+Besaran turunan ialah besaran yang diturunkan dan diperoleh dari besaran-besaran pokok. Misalkan luas didefinisikan sebagai hasilkali dua besaran panjang (yaitu panjang kali lebar). Jika satuan panjang dan lebar masing-masing adalah meter, maka besaran luas adalah besaran turunan yang mempunyai satuan meter x meter atau m2. Contoh yang lain adalah besaran kecepatan yang diperoleh dari hasil bagi jarak dengan waktu. Jarak merupakan besaran panjang yang mempunyai satuan meter, sedangkan waktu mempunyai satuan sekon. Maka besaran kecepatan merupakan besaran turunan dari besaran pokok panjang dibagi besaran pokok waktu, sehingga satuannya meter/sekon atau m/s. Berikut ini adalah beberapa contoh besaran turunan beserta satuannya.Tabel Besaran Turunan Dan Satuannya
+Besaran Turunan
+Rumus
+
+Satuan
+
+Volume
+Massa Jenis
+Percepatan
+Gaya
+Usaha dan Energi
+Daya
+Tekanan
+Muatan Listrik	panjang x lebar x tinggi
+massa/volume
+kecepatan/waktu
+massa x percepatan
+gaya x perpindahan
+usaha/waktu
+gaya/luas
+kuat arus x waktu	m3, cm3, liter
+kg/m3
+m/s2
+kg.m/s2, newton
+kg.m2/s2, joule
+kg.m2/s3, watt
+kg/(m.s2), pascal
+A.s, coulomb
+Sistem Satuan
+Sistem satuan yang biasa digunakan pada besaran pokok dan besaran turunan asalah sistem Satuan Internasional (SI) atau biasa dikenal sebagai sistem metrik yaitu meter, kilogram dan sekon yang disingkat MKS. Selain sistem metrik yang lain adalah CGS (centimeter, gram, sekon). Adapula British Engineering System yang biasa disebut sebagai sistem FPS (foot, pound, sekon).
+
+Tabel Satuan Internasional (SI)
+Besaran
+
+SI
+
+Besaran Pokok	Panjang
+Massa
+Waktu
+Suhu
+Kuat Arus Listrik
+Kuat Cahaya	meter
+kilogram
+sekon
+kelvin
+ampere
+kandela
+Besaran Turunan	Jumlah Zat
+Luas
+Kecepatan
+Volume
+Massa Jenis
+Percepatan
+Gaya	mol
+m2
+m/s
+m3
+kg/m3
+m/s2
+kg.m/s2, N
+Pada sistem metrik, satuan yang lebih besar dan lebih kecil didefinisikan dalam kelipatan 10 dari satuan standar. Jadi 1 kilometer (km) adalah 1000 m atau 103m, 1 centimeter (cm) adalah 1/100 m atau 10-2 m dan seterusnya. Awalan “centi”, “kilo”, “mili”, dan yang lainnya dapat diterapkan tidak hanya pada satuan panjang, tetapi juga satuan volume, massa, atau metrik lainnya. Misalnya saja 1 centiliter (cL) adalah 1/1000 liter dan 1 kilogram adalah 1000 gram. Tabel 4 menunjukkan awalan-awalan metrik yang sering digunakan dalam berbagai satuan.
+
+"/>             <TextView
+		                android:layout_width="match_parent"
+		                android:layout_height="match_parent"
+		                android:layout_marginLeft="25dp"
+		                android:layout_marginRight="25dp"
+		                android:layout_marginTop="10dp"
+		                android:textColor="#000000"
+		                android:text="Tabel Awalan Metrik SI
+Besaran,besaran adalah,definisi besaran,arti besaran,besaran pokok,besaran turunan,besaran fisika,besaran-besaran dasar,besaran skalar,besaran vektor,satuan,satuan adalah,satuan dasar,satuan pokok,satuan fisika,arti satuan,definisi satuan,pengertian satuan,teori besaran dan satuan fisika,satuan fisika,besaran dan satuan pdf,Tabel Besaran Pokok Dan Satuannya,Besaran Pokok, Besaran Turunan Dan Satuannya,besaran-besaran pokok,Tabel Besaran Turunan Dan Satuannya,Sistem Satuan,Sistem Satuan fisika,Sistem Satuan dasar,Sistem Satuan SI,Sistem Satuan internasional,sistem Satuan Internasional (SI),CGS (centimeter, gram, sekon),sistem metrik,Tabel Awalan Metrik SI
+2.Gerak Lurus
+Setiap benda yang bergerak akan membentuk lintasan tertentu. Gerak lurus dibedakan menjadi gerak lurus beraturan dan gerak lurus berubah beraturan. Gerak merupakan perubahan posisi (kedudukan) suatu benda terhadap sebuah acuan tertentu. Perubahan letak benda dilihat dengan membandingkan letak benda tersebut terhadap suatu titik yang diangggap tidak bergerak (titik acuan), sehingga gerak memiliki pengertian yang relatif atau nisbi.Seringkali kita dapat menyatakan arah dengan menggunakan titik-titik mata angin, yaitu Utara, Timur, Selatan, dan Barat, atau menggunakan “atas” dan “bawah”. Dalam fisika, kita sering menggunakan sumbu koordinat,seperti ditunjukkan pada gambar berikut.
+
+Sumbu Koordinat X dan Y
+Sumbu Koordinat X dan Y
+
+Untuk menyatakan kerangka acuan. Kita akan selalu dapat menempatkan titik asal O, dan arah sumbu x dan y. Benda-benda yang diletakkan di kanan titik asal (O) pada sumbu x memiliki koordinat x yang biasanya positif, dan titik-titik di sebelah kiri O memiliki koordinat negatif. Posisi sepanjang sumbu y biasanya dianggap positif jika berada di atas O, dan negatif jika di bawah O, walaupun peraturan yang menyatakan sebaliknya juga dapat digunakan jika lebih memudahkan. Semua titik pada bidang dapat dispesifikasikan dengan memberinya koordinat x dan y.
+
+Pada gerak satu dimensi, kita sering memilih sumbux sebagai garis di mana gerakan tersebut terjadi. Dengan demikian, posisi benda pada setiap saat dinyatakan dengan koordinat x saja.
+
+Dalam fisika, jarak dan perpindahan memiliki pengertian yang berbeda. Perpindahan didefinisikan sebagai perubahan posisi benda dalam selang waktu tertentu. Jadi, perpindahan adalah seberapa jauh jarak benda tersebut dari titik awalnya. Untuk melihat perbedaan antara jaraktotal dan perpindahan, misalnya seseorang berjalan sejauh 50 m ke arahTimur dan kemudian berbalik (ke arah Barat) dan berjalan menempuh jarak 30 m, lihat gambar berikut.
+
+Perbedaan Antara JarakTotal Dan Perpindahan
+Jarak Total,Perpindahan
+
+Jarak total yang ditempuh adalah 80 m, tetapi perpindahannya hanya 20 m karena posisi orang itu pada saat ini hanya berjarak 20 m dari titik awalnya.
+
+Jika sebuah benda bergerak selama selang waktu tertentu, misalnya padasaat t1 benda berada pada sumbu x dititik x1 pada sistem koordinat yang ditunjukkan oleh gambar berikut.
+
+Perpindahan Ditunjukan Dengan Tanda Panah
+Perpindahan Ditunjukan Dengan Tanda Panah
+
+Padawaktu t2 benda berada pada titik x2. Perpindahan benda ini dapat dituliskan:
+
+Δx = x2-x1
+
+Simbol Δ(delta) menyatakan perubahan suatu besaran. Dengan demikian, Δx berarti “perubahan pada x” yang merupakan perpindahan. Perubahan besaran apapun berarti nilai akhir besaran tersebut dikurangi nilai awalnya. Sebagai contoh, pada gambar diatas tersebut perpindahan yang terjadi dinyatakan:
+
+Δx = x2-x1 = 30m – 10m = 20m
+
+Sekarang kita lihat situasi yangberbeda, sebuah benda bergerak ke kiriseperti ditunjukkan gambar berikut.
+
+Vektor Perpindahan Menuju Ke Kiri
+Vektor Perpindahan Menuju Ke Kiri
+
+Disini, misalnya seseorang mulai dari titikx1 = 30 m dan bergerak ke kiri sampaititik x2 = 10 m. Dalam hal ini perpindahanorang itu adalah:
+
+Δx = x2 – x1 = 10 m – 30 m = -20 m
+
+Tanda panah tebal yang menyatakan vektor perpindahan menunjuk ke kiri. Hal tersebut menggambarkan bahwa ketika membahas gerak satu dimensi, vektor yang mengarah kekanan memiliki nilai positif, sedangkan yang mengarah kekiri memiliki nilai negatif. Begitu juga dalam menyatakan gerak lurus dalam sumbu x dan y.
+3. Gerak Melingkar Beraturan.
+Gerak melingkar beraturan adalah gerak yang lintasannya berbentuk lingkaran dengan laju konstan dan arah kecepatan tegak lurus terhadap arah percepatan. Sebuah benda bergerak pada garis lurus jika gaya total yang ada padanya bekerja pada arah gerak benda tersebut, atau sama dengan nol. Jika gaya total bekerja dengan membentuk suatu sudut terhadap arah gerak pada setiap saat, benda akan bergerak dalam lintasan yang membentuk kurva. Sebagai contoh gerak roda dan gerak bola di ujung tali yang diputar.
+
+Pengertian Gerak Melingkar Beraturan
+Gerak Melingkar Beraturan,definisi Gerak Melingkar Beraturan,pengertian Gerak Melingkar Beraturan,Gerak Melingkar Beraturan adalah,teori Gerak Melingkar Beraturan,Gerak Melingkar Beraturan sma kelas 10
+
+Gerak melingkar beraturan adalah gerak yang lintasannya berbentuk lingkaran dengan laju konstan dan arah kecepatan tegak lurus terhadap arah percepatan. Arah kecepatan terus berubah sementara benda bergerak dalam lingkaran tersebut, tampak seperti pada gambar disamping. Oleh karena percepatan didefinisikan sebagai besar perubahan kecepatan, perubahan arah kecepatan menyebabkan percepatan sebagaimana juga perubahan besar kecepatan. Dengan demikian, benda yang mengelilingi sebuah lingkaran terus dipercepat, bahkan ketika lajunya tetap konstan (v1= v2= v).
+4. Hukum New Ton Tentang Gerak.
+Gaya yang ada dalam kehidupan sehari-hari biasanya adalah gaya langsung. Artinya, sesuatu yang memberi gaya berhubungan langsung dengan yang dikenai gaya. Selain gaya langsung, juga ada gaya tak langsung. Gaya tak langsung merupakan gaya yang bekerja di antara dua benda tetapi kedua benda tersebut tidak bersentuhan. Contoh gaya tak langsung adalah gaya gravitasi. Pada bagian ini kita akan mempelajari beberapa jenis gaya, antara lain, gaya berat, gaya normal, gaya gesekan, dan gaya sentripetal.
+Pengertian Gaya
+Pengertian gaya merupakan dorongan atau tarikan yang akan mempercepat atau memperlambat gerak suatu benda.
+ Gaya Berat
+Pada kehidupan sehari-hari, banyak orang yang salah mengartikan antara massa dengan berat. Misalnya, orang mengatakan “Doni memiliki berat 65 kg”. Pernyataan orang tersebut keliru karena sebenarnya yang dikatakan orang tersebut adalah massa Doni. kita harus dapat membedakan antara massa dan berat.
+Massa merupakan ukuran banyaknya materi yang dikandung oleh suatu benda. Massa (m) suatu benda besarnya selalu tetap dimanapun benda tersebut berada, satuannya kg. Berat (w) merupakan gaya gravitasi bumi yang bekerja pada suatu benda. Satuan berat adalah Newton (N).Hubungan antara massa dan berat dijelaskan dalam hukum II Newton. Misalnya, sebuah benda yang bermassa m dilepaskan dari ketinggian tertentu, maka benda tersebut akan jatuh ke bumi. Jika gaya hambatan udara diabaikan, maka gaya yang bekerja pada benda tersebut hanyalah gaya gravitasi (gaya berat benda).
+w = m x g
+keterangan
+w = gaya berat (N)
+m = massa benda (Kg)
+g = kecepatan gravitasi(ms-2)Gaya Normal
+Kita ketahui bahwa benda yang dilepaskan pada ketinggian tertentu akan jatuh bebas. Bagaimana jika benda tersebut di letakkan di atas meja, buku misalnya? Mengapa buku tersebut tidak jatuh? Gaya apa yang menahan buku tidak jatuh?
+"/>
+                </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    
+
+</LinearLayout>

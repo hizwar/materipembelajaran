@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:tools="http://schemas.android.com/tools"
+		xmlns:app="http://schemas.android.com/apk/res-auto"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:background="#cccfed"
+		tools:context=".Mmatematika">
+	
+	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+		
+		<ScrollView
+				android:layout_width="match_parent"
+				android:layout_height="match_parent">
+			<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical">
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:text="Daftar Materi Matemetika SMA Kelas 10"
+						android:gravity="center"
+						android:textSize="18dp"
+						android:textStyle="bold"
+						android:layout_marginTop="20dp"/>
+				<TextView
+						android:layout_width="match_parent"
+						android:layout_height="match_parent"
+						android:layout_marginLeft="25dp"
+						android:layout_marginRight="25dp"
+						android:layout_marginTop="10dp"
+						android:textColor="#000000"
+						android:text="Trigonometri
+Trigonometri adalah ilmu matematika yang mempelajari tentang sudut, sisi, dan perbandingan antara sudut terhadap sisi. Dasarnya menggunakan bangun datar segitiga. Hal ini karena arti dari kata trigonometri sendiri yang dalam bahasa Yunani yang berarti ukuran-ukuran dalam sudut tiga atau segitiga.Perbandingan Trigonometri Pada Segitiga
+Sebuah segitiga dengan salah satu sudutnya berupa \alpha:Sisi AB merupakan sisi miring segitiga
+Sisi BC merupakan sisi depan sudut \alpha
+Sisi AC merupakan sisi samping sudut \alpha.Di sini kita akan mengenal istilah matematika baru, yaitu sinus (sin), cosinus (cos), tangent (tan), cosecan (csc), secan (sec) dan cotangent (cot), yang mana sinus merupakan kebalikan dari cosecan, cosinus kebalikan dari secan dan tangent kebalikan dari cotangent.
+
+Sinus, Cosinus dan Tangent digunakan untuk menghitung sudut dengan perbandingan trigonometri sisi di segitiga. Dengan gambar segitiga diatas, nilai Sinus, Cosinus dan Tangent diperoleh dengan cara sebagai berikut:
+
+\sin \alpha = \frac{a}{c}, \{ \frac{a}{c} = \frac{de-pan}{mi-ring} \}, sehingga bisa dihapal dengan sebutan sin-de-mi.
+
+\cos \alpha = \frac{b}{c}, \{ \frac{b}{c} = \frac{sa-mping}{mi-ring} \}, sehingga bisa dihapal dengan sebutan cos-sa-mi.
+
+\tan \alpha = \frac{a}{b}, \{ \frac{a}{b} = \frac{de-pan}{sa-mping} \}, sehingga bisa dihapal dengan sebutan tan-de-sa.
+
+\csc \alpha = \frac{1}{\sin \alpha}=\frac{1}{a/c}=\frac{c}{a}.Dalam suatu segitiga siku-siku, selalu berlaku prinsip phytagoras, yaitu a^2+b^2=c^2. Pada materi ini, prinsip phytagoras ini menjadi asal pembuktian identitas trigonometri sendiri.
+
+a^2+b^2=c^2 bagi kedua ruas dengan c^2, diperoleh persamaan baru \frac{a^2}{c^2}+\frac{b^2}{c^2}=1. Sederhanakan dengan sifat eksponensial menjadi (\frac{a}{c})^2+(\frac{b}{c})^2. Dari persamaan terakhir, subtitusi bagian yang sesuai dengan perbandingan trigonometri pada segitiga, yaitu \sin \alpha = \frac{a}{c} dan \cos \alpha = \frac{b}{c}, sehingga diperoleh (\sin \alpha^2 + (\cos \alpha)^2 = 1 atau bisa ditulis menjadi \sin^2 \alpha + \cos^2 \alpha = 1.Dari identitas yang pertama, dapat diperoleh bentuk lainnya, yaitu:
+
+\sin^2 \alpha + \cos^2 \alpha = 1 bagi kedua ruas dengan \cos^2 \alpha, diperoleh (\frac{\sin \alpha}{\cos \alpha})^2 + 1 = \frac{1}{\cos^2 \alpha} dimana \frac{\sin \alpha}{\cos \alpha} = \tan \alpha dan \frac{1}{\cos \alpha} = \sec \alpha, sehingga diperoleh: \tan^2 \alpha + 1 = \sec^2 \alpha
+
+Bentuk ketiga yaitu \sin^2 \alpha + \cos^2 \alpha = 1 dibagi dengan \sin^2 \alpha menjadi 1 + \frac{\cos^2 \alpha}{\sin^2 \alpha}=\frac{1}{\sin^2 \alpha}, dimana \frac{\cos \alpha}{\sin \alpha} = \cot \alpha dan \frac{1}{\sin \alpha} = \csc \alpha, sehingga diperoleh persamaan: 1+\cot^2 \alpha = \csc^2 \alpha.
+
+Contoh Soal Trigonometri
+Tentukanlah nilai dari \sin 120^{\circ}+\cos 201^{\circ}+\cos 315^{\circ}!
+
+Jawab:\sin 120^{\circ} berada pada kuadran 2, sehingga nilainya tetap positif dengan besar sama seperti \sin 120^{\circ} = \sin (180-60)^{\circ} = \sin 60^{\circ} = \frac{1}{2} \sqrt{3}
+
+\cos 120^{\circ} berada pada kuadran 3, sehingga nilainya negatif dengan besar sama seperti \cos 120^{\circ} = \cos (180+30)^{\circ} = - \cos 30^{\circ} = - \frac{1}{2} \sqrt{3}"/>
+				
+				
+			</LinearLayout>
+		</ScrollView>
+	</LinearLayout>
+
+
+</LinearLayout>
